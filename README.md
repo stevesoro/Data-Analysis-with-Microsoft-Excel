@@ -6,7 +6,8 @@
 
 ## Overview
 
-This repository features a comprehensive document:<br>Data Analysis with Microsoft Excel.pdf
+This repository features a comprehensive document:<br>Data-Analysis-with-Microsoft-Excel
+/Data Analysis with Microsoft Excel.pdf
 
 It provides a **structured and practical introduction to data analysis**, covering key concepts from data fundamentals to visualization and decision-making.
 
